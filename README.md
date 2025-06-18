@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Artem Borisov]</h1>
+<h1 align="center">Hi 👋, I'm Artem Borisov</h1>
 <h3 align="center">C++ Developer</h3>
 <h3 align="center">First-year graduate student at Bauman Moscow State Technical University</h3>
 
@@ -44,3 +44,4 @@
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=borisov-artem1&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borisov-artem1&layout=compact&theme=tokyonight)
