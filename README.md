@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm [Artem Borisov]</h1>
 <h3 align="center">C++ Developer</h3>
+<h3 align="center">First-year graduate student at Bauman Moscow State Technical University</h3>
 
 
 - 🌱 I’m currently learning: LLVM, ANTLR4, advanced systems programming
@@ -42,4 +43,4 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=borisov-artem1&show_icons=true&theme=tokyonight)
