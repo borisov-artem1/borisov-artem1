@@ -45,3 +45,10 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=borisov-artem1&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borisov-artem1&layout=compact&theme=tokyonight)
+
+### 📫 How to reach me
+
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/brslvrt)
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artem.borisov2002@mail.ru)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+
