@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning: LLVM, ANTLR4, advanced systems programming
 - 💬 Ask me about: C++, Qt, Linux, multithreading, concurrency, networking, distributed systems or compilers
-- 📫 How to reach me: [artem.borisov2002@mail.ru, Telegram - @brslvrt]
 - ⚡ Fun fact: I enjoy diving deep into low-level programming, networking and system internals
 
 ---
@@ -50,5 +49,4 @@
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/brslvrt)
 [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artem.borisov2002@mail.ru)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
 
