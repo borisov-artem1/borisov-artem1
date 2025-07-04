@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning: LLVM, ANTLR4, advanced systems programming
-- 💬 Ask me about: C++, Qt, Linux, multithreading, concurrency, networking, distributed systems or compilers
+- 💬 Ask me about: C++, Linux, multithreading, concurrency, networking, distributed systems or compilers
 - ⚡ Fun fact: I enjoy diving deep into low-level programming, networking and system internals
 
 ---
