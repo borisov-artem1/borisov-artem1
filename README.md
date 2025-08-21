@@ -3,8 +3,8 @@
 <h3 align="center">First-year graduate student at Bauman Moscow State Technical University</h3>
 
 
-- 🌱 I’m currently learning: LLVM, ANTLR4, advanced systems programming
-- 💬 Ask me about: C++, Linux, multithreading, concurrency, networking, distributed systems or compilers
+- 🌱 I’m currently learning: C++, Python, ML
+- 💬 Ask me about: C++, Linux, Python, multithreading, concurrency, networking, distributed systems or compilers
 - ⚡ Fun fact: I enjoy diving deep into low-level programming, networking and system internals
 
 ---
