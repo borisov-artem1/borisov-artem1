@@ -34,7 +34,8 @@
 
 - Algorithms and Data Structures  
 - Operating Systems  
-- Compilers and Programming Languages (LLVM, ANTLR4)  
+- Compilers and Programming Languages (LLVM, ANTLR4)
+- Application security
 - Performance Tuning and Debugging  
 - Distributed Systems and networking  
 
